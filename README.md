@@ -29,7 +29,7 @@ This portfolio showcases my skills, projects, education, and experience as a web
 └── README.md                     # This file
 ```
 
-## ✨ Features
+##  Features
 
 ### Portfolio Website
 - **Responsive Design**: Mobile-friendly layout that adapts to all screen sizes
@@ -64,7 +64,7 @@ A fully functional e-commerce website clone built with HTML and CSS:
 - **Font Awesome**: Icons for navigation and UI elements
 - **Google Fonts**: Inter font family for modern typography
 
-## 🚀 How to Use
+##  How to Use
 
 ### Option 1: Open Locally
 1. Clone or download this repository
@@ -136,7 +136,7 @@ The website is fully responsive and optimized for:
 - Tablet (768px and up)
 - Mobile (320px and up)
 
-## 🎯 Project Features
+## Project Features
 
 ### Portfolio Highlights
 - Clean, minimalist design
@@ -153,14 +153,14 @@ The website is fully responsive and optimized for:
 - Shopping cart interface
 - Responsive grid system
 
-## 📞 Contact & Links
+##  Contact & Links
 
 - **Email**: jalandhrad688@gmail.com
 - **LinkedIn**: [linkedin.com/in/deepak-jalandhra214](https://www.linkedin.com/in/deepak-jalandhra214)
 - **GitHub**: [github.com/deepak-jalandhra-214](https://github.com/deepak-jalandhra-214)
 - **Behance**: [behance.net](https://behance.net)
 
-## 📊 Skills Demonstrated
+##  Skills Demonstrated
 
 - **Frontend Development**: HTML5, CSS3, JavaScript
 - **Responsive Design**: Mobile-first approach, flexible layouts
@@ -168,18 +168,18 @@ The website is fully responsive and optimized for:
 - **Version Control**: Git and GitHub
 - **UI/UX Design**: Modern aesthetics and user experience
 
-## 🎓 Education
+##  Education
 
 - **College**: Baba Farid College of Engineering and Technology
 - **Program**: B.Tech Computer Science & AI/ML
 - **Year**: First Year (2026-2030)
 - **Focus**: Artificial Intelligence and Machine Learning
 
-## 📝 License
+##  License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Built as part of learning web development
 - Font Awesome for icons
