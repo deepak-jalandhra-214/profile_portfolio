@@ -194,4 +194,4 @@ This project is open source and available under the MIT License.
 
 **Author**: Deepak Jalandhra  
 **Email**: jalandhrad688@gmail.com  
-**Portfolio**:http://127.0.0.1:5500/index.html
+
