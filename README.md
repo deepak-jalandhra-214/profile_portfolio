@@ -6,7 +6,7 @@ A professional portfolio website for **Deepak Jalandhra**, a first-year B.Tech C
 
 This portfolio showcases my skills, projects, education, and experience as a web developer and computer science student. The website is built with clean, modern HTML and CSS, featuring a responsive design that works perfectly on all devices.
 
-**🔗 Live Portfolio**: https://deepak-portfolio.netlify.app *(Update with your actual Netlify URL after deployment)*
+**🔗 Live Portfolio**:https://profile-portfolio-eight-mu.vercel.app/
 
 ## 📂 Project Structure
 
@@ -160,7 +160,6 @@ The website is fully responsive and optimized for:
 - **Email**: jalandhrad688@gmail.com
 - **LinkedIn**: [linkedin.com/in/deepak-jalandhra214](https://www.linkedin.com/in/deepak-jalandhra214)
 - **GitHub**: [github.com/deepak-jalandhra-214](https://github.com/deepak-jalandhra-214)
-- **Behance**: [behance.net](https://behance.net)
 
 ##  Skills Demonstrated
 
@@ -194,4 +193,4 @@ This project is open source and available under the MIT License.
 
 **Author**: Deepak Jalandhra  
 **Email**: jalandhrad688@gmail.com  
-**Portfolio**:http://127.0.0.1:5500/index.html
+
