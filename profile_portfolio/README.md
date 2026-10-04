@@ -6,7 +6,8 @@ A professional portfolio website for **Deepak Jalandhra**, a first-year B.Tech C
 
 This portfolio showcases my skills, projects, education, and experience as a web developer and computer science student. The website is built with clean, modern HTML and CSS, featuring a responsive design that works perfectly on all devices.
 
-**🔗 Live Portfolio**:https://profile-portfolio-eight-mu.vercel.app/
+**🔗 Live Portfolio**: https://profile-portfolio-eight-mu.vercel.app/
+**🛍️ Amazon Clone**: https://amazondisplaycloneproject.vercel.app/
 
 ## 📂 Project Structure
 
@@ -16,18 +17,9 @@ This portfolio showcases my skills, projects, education, and experience as a web
 ├── styles.css                    # Styling and responsive design
 ├── script.js                     # JavaScript functionality
 ├── profile.jpg                   # Profile picture
-├── project with css and html/    # Amazon Clone sub-project
-│   ├── amazon-clone.html        # Amazon clone website
-│   ├── amazon-clone.css         # Amazon clone styling
-│   ├── product-images/          # Product images folder
-│   │   ├── hero_image.jpg
-│   │   ├── image 2.jpg
-│   │   ├── image 3.jpg
-│   │   └── ... (more images)
-│   ├── amazon-logo.png
-│   ├── footer-logo.png
-│   ├── README.md
-│   └── LICENSE
+├── image.png                    # Amazon Clone project preview
+├── geonex-banner.png            # GeoNex project preview
+├── LICENSE                       # Project license
 └── README.md                     # This file
 ```
 
@@ -38,7 +30,7 @@ This portfolio showcases my skills, projects, education, and experience as a web
 - **Professional Sections**:
   - Hero section with introduction
   - About section highlighting my approach to web development
-  - Selected work showcasing the Amazon Clone project
+  - Selected work showcasing the Amazon Clone and GeoNex projects
   - Experience section (Python Web Developer - 2025)
   - Education section (B.Tech CSE AI/ML, 2026-2030)
   - Contact section with email link
@@ -50,13 +42,10 @@ This portfolio showcases my skills, projects, education, and experience as a web
   - Social media links (LinkedIn, GitHub)
 
 ### Amazon Clone Project
-A fully functional e-commerce website clone built with HTML and CSS:
-- Amazon-style navigation bar
-- Product grid with images
-- Hero banner section
-- Responsive design
-- Multiple product categories
-- Shopping cart interface
+The Amazon Clone is hosted separately and linked from the portfolio project card:
+- **Live demo**: https://amazondisplaycloneproject.vercel.app/
+- Built with HTML and CSS
+- Amazon-style navigation, product grid, hero banner, and shopping cart interface
 
 ## 🎨 Technologies Used
 
@@ -71,7 +60,7 @@ A fully functional e-commerce website clone built with HTML and CSS:
 ### Option 1: Open Locally
 1. Clone or download this repository
 2. Open `index.html` in your web browser
-3. Click on the Amazon Clone project to view the sub-project
+3. Click on the Amazon Clone project to open its live demo
 
 ### Option 2: View on GitHub Pages
 [Deploy to GitHub Pages for live viewing]
@@ -89,10 +78,8 @@ A fully functional e-commerce website clone built with HTML and CSS:
 - Workflow approach: Problem → Data & Logic → Polish Front End
 
 ### Work
-- Featured project: **Amazon Clone**
-- Built with HTML and CSS
-- Fully responsive e-commerce interface
-- Click to open and explore
+- **Amazon Clone**: HTML/CSS e-commerce interface. [Open the live demo](https://amazondisplaycloneproject.vercel.app/).
+- **GeoNex**: Drone imagery mapping and geospatial change detection. [Open the live project](https://geonex.vercel.app/).
 
 ### Experience
 - **Python Web Developer** (2025)
@@ -117,7 +104,7 @@ Edit `index.html` and update the profile image path:
 ### Update Project Links
 Modify the project card href in `index.html`:
 ```html
-<a href="your-project-link" class="project-card">
+<a href="https://your-project-url.example/" class="project-card">
 ```
 
 ### Modify Colors
@@ -154,6 +141,7 @@ The website is fully responsive and optimized for:
 - Multiple product categories
 - Shopping cart interface
 - Responsive grid system
+- View the hosted project: https://amazondisplaycloneproject.vercel.app/
 
 ##  Contact & Links
 
@@ -193,4 +181,3 @@ This project is open source and available under the MIT License.
 
 **Author**: Deepak Jalandhra  
 **Email**: jalandhrad688@gmail.com  
-
