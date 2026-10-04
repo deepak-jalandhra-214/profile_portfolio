@@ -8,6 +8,7 @@ This portfolio showcases my skills, projects, education, and experience as a web
 
 **🔗 Live Portfolio**: https://profile-portfolio-eight-mu.vercel.app/
 **🛍️ Amazon Clone**: https://amazondisplaycloneproject.vercel.app/
+**🛰️ GeoNex**: https://geonex.vercel.app/
 
 ## 📂 Project Structure
 
@@ -46,6 +47,12 @@ The Amazon Clone is hosted separately and linked from the portfolio project card
 - **Live demo**: https://amazondisplaycloneproject.vercel.app/
 - Built with HTML and CSS
 - Amazon-style navigation, product grid, hero banner, and shopping cart interface
+
+### GeoNex Project
+GeoNex is a geospatial project focused on drone imagery and map-based analysis for land monitoring and change detection.
+- **Live project**: https://geonex.vercel.app/
+- Showcases geospatial visualization, mapping interfaces, and insights for modern environmental and infrastructure analysis
+- Designed to highlight data-driven monitoring and visual storytelling for location-based projects
 
 ## 🎨 Technologies Used
 
